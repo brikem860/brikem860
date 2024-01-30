@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Meli</h1>
 <h3 align="center">A django backend developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brito860&label=Profile%20views&color=0e75b6&style=flat" alt="brito860" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brikem860&label=Profile%20views&color=0e75b6&style=flat" alt="brito860" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brito860" alt="brito860" /></a> </p>
 
